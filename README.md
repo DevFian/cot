@@ -1,1 +1,2 @@
-# cot
+# EconomyBot
+Economy discord bot
